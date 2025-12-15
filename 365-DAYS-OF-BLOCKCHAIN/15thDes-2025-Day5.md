@@ -268,4 +268,4 @@ They rely on **structure**.
 Blockchain is not magic.
 It is disciplined architecture.
 
-And that discipline is its beauty.
+And that discipline is its beauty
