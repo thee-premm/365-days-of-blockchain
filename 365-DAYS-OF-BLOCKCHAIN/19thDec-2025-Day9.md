@@ -262,9 +262,9 @@ Layer 1 prioritizes:
 
 - security,
 - decentralization,
-- correctness.
+- correctnes
 
-Layer 2 optimizes:
+Layer 2 optimizes:git s
 
 - speed,
 - cost,
